@@ -72,3 +72,9 @@ h1 {
 .work article:not(:last-child) {
   margin-bottom: 10rem;
 }
+
+/* Price plan section */
+
+.price-plan-features {
+  list-style-image: url('/img/parts/yellow-check.png');
+}

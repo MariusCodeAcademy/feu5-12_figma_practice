@@ -88,6 +88,10 @@ a {
   padding-left: 1rem;
 }
 
+.btn-no-arrow::after {
+  content: none;
+}
+
 /* utility classes */
 
 .bg-primary {
