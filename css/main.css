@@ -9,6 +9,10 @@ html {
 
 /* Header */
 
+.nav-block {
+  display: none;
+}
+
 .main-header {
   background-color: var(--main-color1);
   color: var(--main-white-color);

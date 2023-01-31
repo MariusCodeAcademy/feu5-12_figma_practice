@@ -6,4 +6,19 @@
     padding-left: 0;
     padding-right: 0;
   }
+
+  .main-header {
+    padding-top: 1.6rem;
+    padding-bottom: 1.6rem;
+  }
+
+  .burger {
+    display: none;
+  }
+
+  .nav-block {
+    display: flex;
+    align-items: center;
+    gap: 8rem;
+  }
 }
