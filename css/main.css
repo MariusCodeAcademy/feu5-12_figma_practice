@@ -40,3 +40,25 @@ html {
   padding-top: 1.6rem;
   padding-bottom: 1.6rem;
 }
+
+/* Hero sekcija  ============= */
+
+.hero {
+  color: var(--main-white-color);
+}
+
+h1 {
+  font-size: 3.6rem;
+  letter-spacing: -0.02em;
+}
+
+.section .text {
+  font-size: 1.8rem;
+  line-height: 1.7;
+  letter-spacing: -0.02em;
+  margin-bottom: 6rem;
+}
+
+.hero .btn {
+  margin-bottom: 10rem;
+}
