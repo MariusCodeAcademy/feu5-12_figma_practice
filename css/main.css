@@ -123,3 +123,13 @@ h1 {
 .dot.active {
   background-color: var(--main-color1);
 }
+
+/* work-everywhere-section */
+
+.work-everywhere-section {
+  padding-top: 10rem;
+  padding-bottom: 14rem;
+}
+.work-everywhere-section .title {
+  margin-bottom: 0.4em;
+}
