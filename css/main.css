@@ -62,3 +62,13 @@ h1 {
 .hero .btn {
   margin-bottom: 10rem;
 }
+
+/* Work together */
+
+.work .btn {
+  margin-bottom: 6rem;
+}
+
+.work article:not(:last-child) {
+  margin-bottom: 10rem;
+}
