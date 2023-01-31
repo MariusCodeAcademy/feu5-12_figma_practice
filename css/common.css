@@ -70,6 +70,11 @@ a {
   border-radius: 0.8rem;
   color: var(--main-white-color);
 }
+
+.btn:active {
+  outline: 1px solid white;
+}
+
 .btn::after {
   content: '\f061';
   font-family: 'FontAwesome';
