@@ -5,7 +5,7 @@
 html {
   /* 1 rem = 10px */
   font-size: 62.5%;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Inter', Verdana, Geneva, Tahoma, sans-serif;
 }
 
 p,
@@ -43,8 +43,8 @@ a {
 
 /* common rules */
 .container {
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding-left: 1.6rem;
+  padding-right: 1.6rem;
   /* apridboti tik maximalu ploti */
   /* max-width: 80rem; */
   /* skaiciuoti parastes automatiskai vienodai is kaires ir is desines */
