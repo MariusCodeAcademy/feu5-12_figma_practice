@@ -133,3 +133,16 @@ h1 {
 .work-everywhere-section .title {
   margin-bottom: 0.4em;
 }
+
+/* Sponsors */
+
+.sponsors-section .title {
+  margin-bottom: 10rem;
+}
+
+.sponsors {
+  display: flex;
+  flex-direction: column;
+  gap: 10rem;
+  align-items: center;
+}
