@@ -23,5 +23,13 @@
     gap: 8rem;
   }
 
+  .nav-block .btn-secondary {
+    margin-right: 2.4rem;
+  }
+
+  .nav-link {
+    padding: 0.5em 1em;
+  }
+
   /* kita sekcija */
 }
