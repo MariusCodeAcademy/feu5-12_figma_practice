@@ -111,6 +111,24 @@ h1 {
   color: var(--secondary-color1);
 }
 
+/* white plans */
+.price-plan--white .plan-price {
+  color: black;
+}
+.price-plan--white {
+  border: 1px solid var(--secondary-color1);
+}
+
+.price-plan--white {
+  display: none;
+}
+
+.price-plans {
+  display: flex;
+  gap: 3.2rem;
+  align-items: center;
+}
+
 /* dots */
 
 .plan-control {

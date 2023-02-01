@@ -120,11 +120,13 @@
     border: 1px solid var(--secondary-color1);
     padding-top: 4em;
     padding-bottom: 4rem;
+    display: block;
   }
-  .price-plan--white .plan-price {
-    color: black;
-  }
+
   .price-plans-section .text {
     text-align: center;
+  }
+  .price-plans-section .title {
+    margin-bottom: 2.4rem;
   }
 }
