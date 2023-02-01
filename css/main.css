@@ -195,3 +195,32 @@ h1 {
 .sample-svg:hover .svg-check {
   stroke: var(--main-color1);
 }
+
+/* FOOTER -------------------- */
+
+footer {
+  padding-top: 10rem;
+  padding-bottom: 3.2rem;
+}
+
+footer .title {
+  font-size: 4rem;
+  margin-bottom: 2.4rem;
+}
+
+footer .text {
+  font-size: 1.8rem;
+  line-height: 1.7;
+  letter-spacing: -0.02em;
+  margin-bottom: 4rem;
+}
+
+.footer-top .btn {
+  margin-bottom: 4rem;
+}
+
+.os-icons-container {
+  display: flex;
+  gap: 4rem;
+  align-items: center;
+}
