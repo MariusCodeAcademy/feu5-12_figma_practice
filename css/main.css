@@ -108,6 +108,7 @@ h1 {
 .plan-price {
   font-size: 3.6rem;
   letter-spacing: -0.02em;
+  color: var(--secondary-color1);
 }
 
 /* dots */

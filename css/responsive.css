@@ -104,4 +104,27 @@
     width: 50%;
     object-fit: cover;
   }
+
+  /* Price plan */
+  .price-plans {
+    display: flex;
+    gap: 3.2rem;
+    align-items: center;
+  }
+  .price-plan {
+    width: 33%;
+    padding-top: 8em;
+    padding-bottom: 8rem;
+  }
+  .price-plan--white {
+    border: 1px solid var(--secondary-color1);
+    padding-top: 4em;
+    padding-bottom: 4rem;
+  }
+  .price-plan--white .plan-price {
+    color: black;
+  }
+  .price-plans-section .text {
+    text-align: center;
+  }
 }
