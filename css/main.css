@@ -224,3 +224,22 @@ footer .text {
   gap: 4rem;
   align-items: center;
 }
+
+/* footer main */
+
+.logo--footer {
+  justify-content: center;
+}
+
+.footer--title,
+.footer-link {
+  font-size: 1.8rem;
+  display: block;
+}
+.footer-link {
+  margin-bottom: 1.5rem;
+}
+
+.footer-products {
+  margin-bottom: 8rem;
+}
