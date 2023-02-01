@@ -97,6 +97,12 @@ h1 {
   margin-bottom: 2.8rem;
   background-size: 1.8rem;
 }
+
+.price-plan--white .plan-feature {
+  background: url('/img/parts/Ckeck.svg') no-repeat left center;
+  background-size: 1.8rem;
+}
+
 .plan-feature:last-child {
   margin-bottom: 2.5rem;
 }
@@ -169,4 +175,19 @@ h1 {
   flex-direction: column;
   gap: 10rem;
   align-items: center;
+}
+
+/* Svg example */
+
+.sample-svg .svg-round {
+  stroke: #4f9cf9;
+}
+.sample-svg:hover .svg-round {
+  stroke: tomato;
+}
+.sample-svg .svg-check {
+  stroke: #4f9cf9;
+}
+.sample-svg:hover .svg-check {
+  stroke: var(--main-color1);
 }
