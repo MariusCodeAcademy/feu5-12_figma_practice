@@ -31,5 +31,28 @@
     padding: 0.5em 1em;
   }
 
-  /* kita sekcija */
+  /* Hero sekcija */
+
+  .hero .container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem;
+    align-items: center;
+  }
+
+  .hero-text-block {
+    text-align: left;
+  }
+  .hero .btn {
+    margin-bottom: 0;
+  }
+  h1 {
+    font-size: 6.4rem;
+    margin-bottom: 2.4rem;
+  }
+  .hero-img {
+    /* reikia kad butu 456px ir nepadidetu plotis ir neissitampytu */
+    min-height: 45.6rem;
+    object-fit: cover;
+  }
 }
