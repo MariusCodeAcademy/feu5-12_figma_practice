@@ -17,6 +17,10 @@
   .logo {
     font-size: 3.4rem;
   }
+  .logo svg {
+    width: 3.7rem;
+    height: 2.9rem;
+  }
   .main-header {
     padding-top: 1.6rem;
     padding-bottom: 1.6rem;
